@@ -1,0 +1,5 @@
+train_dir: 'data/train'
+val_dir: 'data/validation'
+image_size: 224
+batch_size: 32
+num_classes: 2
